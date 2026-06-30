@@ -1,0 +1,5 @@
+{
+  "appId": "com.mayur.expensetracker",
+  "appName": "expense tracker",
+  "webDir": "dist"
+}
